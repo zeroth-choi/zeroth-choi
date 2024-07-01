@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeroth-choi.
-- 👀 I’m teaching programming.
-- 🌱 I’m currently interested in machine learning using Python and R.
+- 👀 I’m teaching programming and IoT.
+- 🌱 I’m currently interested in Python, Arduino, and Raspberry Pi.
 
 <!---
 zeroth-choi/zeroth-choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
